@@ -33,7 +33,7 @@ theme:
         icon: material/lightbulb-outline
         name: Switch to light mode
       primary: black 
-      accent: red 
+      accent: yellow 
   font:
     text: Roboto 
     code: Roboto Mono  
