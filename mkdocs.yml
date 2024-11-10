@@ -1,1 +1,17 @@
 site_name: My Docs
+theme:
+  palette:
+    - media: "(prefers-color-scheme: light)"  # Toggle for light mode
+      scheme: default
+      toggle: 
+        icon: material/lightbulb
+        name: Switch to dark mode
+      primary: black
+      accent: red
+    - media: "(prefers-color-scheme: dark)"   # Toggle for dark mode
+      scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+      primary: black 
+      accent: red 
