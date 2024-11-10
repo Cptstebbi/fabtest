@@ -1,5 +1,24 @@
-site_name: My Docs
+# Code Borrowed from Fabisa.is and Svavar Konradarspns Fab Academy Site.
+# Fabisa: https://github.com/fablabisastaff/fabisa_site/blob/main/mkdocs.yml
+# Svavar: https://gitlab.fabcloud.org/academany/fabacademy/2023/labs/isafjordur/students/svavar-konradsson/-/blob/main/mkdocs.yml?ref_type=heads
+
+site_name: Bjartur's Fab Academy Journey 
+site_url: https://bjarturleohlynsson.github.io/fab-academy-test-site/
+
+repo_url: https://github.com/BjarturLeoHlynsson/fab-academy-test-site
+repo_name: "Site Repo"
 theme:
+  name: material
+  logo: images/Logo/FabLabLogo.svg
+  favicon: images/Logo/FabLabLogo.svg
+  icon:
+    repo: simple/github
+  features:
+    - content.code.annotate
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
   palette:
     - media: "(prefers-color-scheme: light)"  # Toggle for light mode
       scheme: default
@@ -15,9 +34,11 @@ theme:
         name: Switch to light mode
       primary: black 
       accent: red 
-      text: Roboto 
+  font:
+    text: Roboto 
     code: Roboto Mono  
-    markdown_extensions:
+
+markdown_extensions:
   - pymdownx.snippets
   - pymdownx.keys
   - pymdownx.highlight:
@@ -34,3 +55,38 @@ theme:
       generic: true
   - pymdownx.tasklist:
       custom_checkbox: true
+
+
+nav:
+  - Home: index.md
+  - About:
+    - Bio: about-me/bio.md
+    - Student Agreement: about-me/agreement.md
+  - Pre Fab:
+    - 0. Overview: pre-fab/overview.md
+    - 1. Website Making: pre-fab/week01.md
+    - 2. Electronics Design and Production: pre-fab/week02.md
+    - 3. Computer-Controlled Cutting: pre-fab/week03.md
+    - 4. Computer-Aided Design: pre-fab/week04.md
+  - Assignments:
+    - 0. Overview: assignments/overview.md
+    - 1. Principles and Practices: assignments/week01.md
+    - 2. Computer-Aided Design: assignments/week02.md
+    - 3. Computer-Controlled Cutting: assignments/week03.md
+    - 4. Embedded Programming: assignments/week04.md
+    - 5. 3D Scanning and Printing: assignments/week05.md
+    - 6. Electronics Design: assignments/week06.md
+    - 7. Computer-Controlled Machining: assignments/week07.md
+    - 8. Electronics Production: assignments/week08.md
+    - 9. Output Devices: assignments/week09.md
+    - 10. Machine Week: assignments/week10.md
+    - 11. Input Devices: assignments/week11.md
+    - 12. Molding and Casting: assignments/week12.md
+    - 13. Networking and Communications: assignments/week13.md
+    - 14. Interface and Application Programming: assignments/week14.md
+    - 15. Wild Card Week: assignments/week15.md
+    - 16. Applications and Implications: assignments/week16.md
+    - 17. Invention, Intellectual Property and Business Models: assignments/week17.md
+    - 18-20. Project Development: assignments/week18.md
+  - Final Project:
+    - Overview: final-project/overview.md
