@@ -63,6 +63,9 @@ nav:
     - Bio: About/bio.md
   - Assignments:
     - 0. Overview: Assignment/week1.md
+  = Prefab: 
+      _Pre_fab/Pre_fabs.md
+
 
     
 
