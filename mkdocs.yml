@@ -5,7 +5,7 @@
 site_name: Evert´s Fab Academy Journey 
 site_url: https://cptstebbi.github.io/fabtest
 
-repo_url: https://github.com/Cptstebbi/fabtest
+repo_url: https://github.com/cptstebbi/fabtest
 repo_name: "Site Repo"
 theme:
   name: material
