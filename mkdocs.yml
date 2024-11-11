@@ -5,7 +5,7 @@
 site_name: Evert Fab Academy Journey 
 site_url: https://bjarturleohlynsson.github.io/fab-academy-test-site/
 
-repo_url: https://github.com/BjarturLeoHlynsson/fab-academy-test-site
+repo_url: https://github.com/Cptstebbi/fabtest
 repo_name: "Site Repo"
 theme:
   name: material
@@ -32,7 +32,7 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
-      primary: black 
+      primary: green 
       accent: yellow 
   font:
     text: Roboto 
