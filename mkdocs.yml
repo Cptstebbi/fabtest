@@ -60,7 +60,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About:
-    - Bio: about-me/bio.md
+    - Bio: about/bio.md
     - Student Agreement: about-me/agreement.md
   - Pre Fab:
     - 0. Overview: pre-fab/overview.md
@@ -70,7 +70,7 @@ nav:
     - 4. Computer-Aided Design: pre-fab/week04.md
   - Assignments:
     - 0. Overview: assignments/overview.md
-    - 1. Principles and Practices: assignments/week01.md
+    - 1. Principles and Practices: assignments/week1.md
     - 2. Computer-Aided Design: assignments/week02.md
     - 3. Computer-Controlled Cutting: assignments/week03.md
     - 4. Embedded Programming: assignments/week04.md
