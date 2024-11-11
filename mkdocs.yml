@@ -61,7 +61,6 @@ nav:
   - Home: index.md
   - About:
     - Bio: about/bio.md
-    - Student Agreement: about/bio.md
   - Pre Fab:
     - 0. Overview: pre-fab/overview.md
     - 1. Website Making: pre-fab/week01.md
