@@ -60,9 +60,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About:
-    - Bio: About/bio.md
+    - Bio: docs/About/bio.md
   - Assignments:
-    - 0. Overview: Assignment/week1.md
+    - 0. Overview: docs/Assignment/week1.md
 
     
 
