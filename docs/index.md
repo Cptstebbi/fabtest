@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-![Tungl](images/pictures/frontpage.JPG)
+![Tungl](images/pictures/frontpage.jpg)
 
 ## welcome to my Journey
 
