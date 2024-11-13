@@ -64,7 +64,8 @@ nav:
   - Assignments:
     - 0. Overview: Assignment/week1.md
   - Prefab: 
-    - Prefabs: Prefab/Pre_fabs.md
+    - git push
+    Prefabs: Prefab/Pre_fabs.md
     - Website: Prefab/Website.md
 
 
