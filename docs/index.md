@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-![image](images/pictures/mynd1.JPG)
+![image](images/pictures/testfrontpage.JPG)
 
 ## welcome to my Journey
 
