@@ -2,5 +2,5 @@
 Its going to be very good
 just look later
 hello world
-how are you
+i am teacher in Fjölbrautar skólinn í Breiðholti, where i teach electro
 ll
