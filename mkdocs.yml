@@ -62,7 +62,8 @@ nav:
   - About:
     - Bio: About/bio.md
   - Assignments:
-    - 0. Overview: Assignment/week1.md
+    - 0. Webpage: Assignment/week1.md
+    - 1. Electronic circut: Assignment/week2.md
   - Prefab: 
     - Prefabs: Prefab/Pre_fabs.md
     - Website: Prefab/Website.md
