@@ -4,3 +4,5 @@ I will document all mi things in this page
 https://www.flugsidan.is
 
 **[Flugsíðan](https://www.flugsidan.is)**.
+
+maybe its best to change this page
